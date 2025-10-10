@@ -1,0 +1,26 @@
+# Build folders
+bin/
+obj/
+out/
+
+# Visual Studio
+.vs/
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+
+# VS Code
+.vscode/
+
+# Logs and temp
+*.log
+*.tmp
+*.temp
+*.cache
+*.db
+
+# OS files
+Thumbs.db
+ehthumbs.db
+.DS_Store
