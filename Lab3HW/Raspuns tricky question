@@ -1,0 +1,2 @@
+Daca nu specific exact numele campurilor pe care se face sortarea, codul devine sensibil la SQL Injection, iar in acelasi timp se pot pune nume gresit numele campului. 
+Eu am rezolvat asta facand un switch la parametrul de sortare ca sa fie doar title si year.
